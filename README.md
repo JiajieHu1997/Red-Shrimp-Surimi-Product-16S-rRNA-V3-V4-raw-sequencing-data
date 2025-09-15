@@ -1,0 +1,2 @@
+# Red-Shrimp-Surimi-Product-16S-rRNA-V3-V4-raw-sequencing-data
+16S rRNA amplicon sequencing targeting the V3–V4 region, amplified with the 338F (Forward) / 806R (Reverse) primer pair.  Sequencing was performed in paired-end mode, generating R1 (forward reads) and R2 (reverse reads).  The deposited files are raw FASTQ data, i.e., unprocessed reads (no quality control, adapter removal, or filtering).
